@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nan1027/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nan1027/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0075-sort-colors](https://github.com/nan1027/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nan1027/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/nan1027/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,6 +31,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/nan1027/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Counting
 |  |
 | ------- |
