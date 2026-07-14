@@ -13,6 +13,7 @@
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/nan1027/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nan1027/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,12 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nan1027/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/nan1027/leetcode-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
