@@ -20,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/nan1027/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nan1027/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nan1027/leetcode-solutions/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/nan1027/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/nan1027/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nan1027/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/nan1027/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/nan1027/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
