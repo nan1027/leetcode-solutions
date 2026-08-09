@@ -90,4 +90,8 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nan1027/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nan1027/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
