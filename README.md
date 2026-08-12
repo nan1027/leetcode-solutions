@@ -37,6 +37,7 @@
 | [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nan1027/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nan1027/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -56,6 +57,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -98,8 +100,13 @@
 | [0006-zigzag-conversion](https://github.com/nan1027/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0125-valid-palindrome](https://github.com/nan1027/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/nan1027/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nan1027/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
