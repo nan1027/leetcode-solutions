@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nan1027/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/nan1027/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/nan1027/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/nan1027/leetcode-solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/nan1027/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nan1027/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/nan1027/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/nan1027/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/nan1027/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/nan1027/leetcode-solutions/tree/master/0242-valid-anagram) |
@@ -111,4 +113,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/nan1027/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nan1027/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
