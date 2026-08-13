@@ -1,0 +1,61 @@
+// Find the Longest Word in a String
+
+//First Solution
+import java.util.*;
+
+class Main {
+
+    public static String largestWord(String s){
+        String[] words=s.split(" ");
+        String longest=" ";
+        for(int i=0;i<words.length;i++){
+            if(words[i].length() > longest.length()){
+                longest=words[i];
+            }
+        }
+        return longest;
+        
+    }
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String s = sc.nextLine();
+
+        System.out.println(largestWord(s));
+    }
+}
+
+//Second Solution
+import java.util.*;
+
+class Main {
+
+    public static String largestWord(String s){
+        int maxlength=0;
+        String longest=" ";
+        int start=0;
+        
+        for(int i=0;i<=s.length();i++){
+            if(i==s.length() || s.charAt(i)==' '){
+                int length=i-start;
+                if(length>maxlength){
+                    maxlength=length;
+                    longest=s.substring(start,i);
+                }
+                start=i+1;
+            }
+            
+        }
+        return longest;
+        
+    }
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String s = sc.nextLine();
+
+        System.out.println(largestWord(s));
+    }
+}
