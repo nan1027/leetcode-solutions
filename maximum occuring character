@@ -1,0 +1,40 @@
+// Maximum occuring character in a string
+
+import java.util.*;
+
+class Main {
+
+    public static char maxOccurringChar(String s) {
+
+        // Step 1: Count characters
+        int[] freq = new int[26];
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+            freq[ch - 'a']++;
+        }
+
+        // Step 2: Find maximum
+        int maxOccur = 0;
+        char answer = ' ';
+
+        for (int i = 0; i < 26; i++) {
+
+            if (freq[i] > maxOccur) {
+                maxOccur = freq[i];
+                answer = (char)(i + 'a');
+            }
+        }
+
+        return answer;
+    }
+
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        String s = sc.nextLine();
+
+        System.out.println(maxOccurringChar(s));
+    }
+}
