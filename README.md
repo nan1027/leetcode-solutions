@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nan1027/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/nan1027/leetcode-solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/nan1027/leetcode-solutions/tree/master/0198-house-robber) |
 | [0283-move-zeroes](https://github.com/nan1027/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/nan1027/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/nan1027/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nan1027/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/nan1027/leetcode-solutions/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
