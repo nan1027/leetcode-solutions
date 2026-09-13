@@ -1,0 +1,32 @@
+//Ninja's Training- 2D/GRID DP 
+
+ import java.util.*;
+ public class Main {
+    public static int ninjaTraining(int n,int[][]points) {
+       int[] prev=new int[3];
+       
+       prev[0]=points[0][0];
+       prev[1]=points[0][1];
+       prev[2]=points[0][2];
+       
+       for(int day=1;day<n;day++){
+           int[] current=new int[3];
+           
+           current[0]=points[day][0]+ Math.max(prev[1],prev[2]);
+           current[1]=points[day][1]+Math.max(prev[0],prev[2]);
+           current[2]=points[day][2]+Math.max(prev[1],prev[0]);
+           
+           prev=current;
+       }
+       return Math.max(prev[0],Math.max(prev[1],prev[2]));
+    }
+    public static void main(String[] args){
+        int[][] points={
+            {10,20,40},
+            {40,80,60},
+            {60,10,30}
+        };
+        int n= points.length;
+        System.out.println(ninjaTraining(n,points));
+    }
+}
